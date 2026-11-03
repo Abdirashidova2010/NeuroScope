@@ -1,0 +1,5 @@
+Test_Recording,Training_Recordings,Accuracy,Balanced_Accuracy
+S001R12,"S001R04, S001R08",60.0,62.5
+S001R04,"S001R08, S001R12",80.0,81.2
+S001R08,"S001R04, S001R12",60.0,59.8
+AVERAGE,,66.7,67.8

@@ -1,0 +1,26 @@
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# EEG recordings and raw data
+*.edf
+*.fif
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Backup and obsolete scripts
+*_backup.py
+*_old.py
+*_before_*.py
+*_previous_version.py
